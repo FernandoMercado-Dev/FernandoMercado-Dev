@@ -10,3 +10,18 @@ I am a Nanotechnology Engineer with a strong **self-taught** inclination towards
 - **Frameworks and libraries:** Handlebars
 - **Construction Tools and Preprocessors:** Gulp
 - **Herramientas:** Visual Studio Code, GitHub, Trello, Figma
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="Handlebars" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" alt="Gulp" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="Trello" width="30px" style="padding-right:10px" align="left"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30px" style="padding-right:10px" align="left"/>

@@ -8,8 +8,8 @@ I am a Nanotechnology Engineer with a strong **self-taught** inclination towards
 ## 🔧 Technical Skills
 - **Languages and Technologies:** JavaScript, Node.js, Express, SQL (MySQL), HTML, CSS, SASS
 - **Frameworks and libraries:** Handlebars
+- **Tools:** Visual Studio Code, GitHub, Trello, Figma
 - **Construction Tools and Preprocessors:** Gulp
-- **Herramientas:** Visual Studio Code, GitHub, Trello, Figma
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" style="padding-right:10px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" style="padding-right:10px" align="left"/>

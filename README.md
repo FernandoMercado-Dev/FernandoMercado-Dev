@@ -6,10 +6,10 @@
 I am a Nanotechnology Engineer with a strong **self-taught** inclination towards **programming**. My work experience has allowed me to refine skills in **front-end, back-end, SQL databases**, and **UI/UX design**. I am someone who is constantly seeking new knowledge to improve and expand my technical and personal competencies.
 
 ## 🔧 Technical Skills
-- **Languages and Technologies:** JavaScript, Node.js, Express, SQL (MySQL), HTML, CSS, SASS
-- **Frameworks and libraries:** Handlebars
-- **Tools:** Visual Studio Code, GitHub, Trello, Figma
-- **Construction Tools and Preprocessors:** Gulp
+- **Languages and Technologies:** JavaScript, PHP, SQL, HTML, CSS
+- **Frameworks and libraries:**  Node.js, Bootstrap 5, Express, Handlebars, Intervention Image
+- **Tools:** GitHub, VS Code,Figma,Proto.io, Marvel App
+- **Construction Tools and Preprocessors:** Gulp,SASS
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" style="padding-right:10px" align="left"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" style="padding-right:10px" align="left"/>
